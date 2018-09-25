@@ -1,5 +1,6 @@
 /* Author: Aidan Bush
  * Lab: 2
+ * Question: 1
  * Course: CMPT 360
  * Date: Sept. 25, 18
  * File: q1.c
