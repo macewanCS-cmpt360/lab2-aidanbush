@@ -1,10 +1,10 @@
 /* Author: Aidan Bush
  * Lab: 2
- * Question: 2
+ * Question: 3
  * Course: CMPT 360
  * Date: Sept. 25, 18
- * File: q2.c
- * Description: question 2 file
+ * File: q3.c
+ * Description: question 3 file
  */
 
 #include <stdio.h>
