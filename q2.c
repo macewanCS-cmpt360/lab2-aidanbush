@@ -39,7 +39,7 @@ int main(int argc, char **argv)
 	return 0;
 }
 
-/* Other questions:
+/* Questions:
  * Can both the child and parent access the file descriptor returned by open()?
  *  Both the parent and child can access the file descriptor.
  * What happens when they are writing to the file concurrently, i.e., at the

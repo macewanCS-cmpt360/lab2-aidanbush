@@ -11,7 +11,7 @@
 #include <unistd.h>
 #include <sys/wait.h>
 
-// Question 2
+// Question 3
 int main(int argc, char **argv)
 {
 	int pid = fork();
@@ -30,7 +30,7 @@ int main(int argc, char **argv)
 	return 0;
 }
 
-/* Other questions:
+/* Questions:
  * Can you do this without calling wait() in the parent?
  *  Yes if you use a method of inter-process communication such as a pipe or
  *  unix domain socket.

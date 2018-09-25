@@ -31,7 +31,7 @@ int main(int argc, char **argv)
 	return 0;
 }
 
-/* Other questions:
+/* Questions:
  * What value is the variable in the child process?
  *  The variable will have the exact same value as it was assigned before the
  *  child was created.
