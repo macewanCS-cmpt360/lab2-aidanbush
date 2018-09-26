@@ -1,3 +1,12 @@
+/* Author: Aidan Bush
+ * Lab: 2
+ * Question: shell.c
+ * Course: CMPT 360
+ * Date: Sept. 25, 18
+ * File: shell.c
+ * Description: interactive shell file
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
